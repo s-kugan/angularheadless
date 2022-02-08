@@ -1,0 +1,21 @@
+# Ignore files
+selenium-server.log
+debug.log
+
+# Ignore directories
+.idea
+node_modules/
+
+screenshots/*
+!screenshots/.gitkeep
+
+fileDownloads/*
+!fileDownloads/.gitkeep
+
+reports/*
+!reports/.gitkeep
+
+# Logs
+logs/*
+!logs/.gitkeep
+npm-debug.log*

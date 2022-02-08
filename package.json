@@ -1,0 +1,22 @@
+{
+  "name": "angularheadless",
+  "version": "1.0.0",
+  "description": "This repo is to give a demo for running a test in angular site in headless",
+  "main": "nightwatch.conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "angularheadless"
+  },
+  "author": "skugan",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^97.0.4",
+    "nightwatch": "^1.7.8",
+    "path": "^0.12.7",
+    "selenium-server": "^3.141.59",
+    "selenium-standalone": "^8.0.9"
+  }
+}
